@@ -215,5 +215,6 @@ body {
     .cards {
         display: flex;
         margin-top: 1rem;
+        padding: 0px;
     }
 }
